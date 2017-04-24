@@ -9,21 +9,23 @@ The Constitution of a certain country states that the leader is the person with 
 If there is a tie, the person whose name comes earliest in alphabetical order is the leader.
 
 Given a list of names of the citizens of the country, can you determine who the leader is?
-Input
+### Input
 The first line of the input gives the number of test cases, T. T test cases follow. Each test case starts with a line with an interger N, the number of people in the country. Then N lines follow. The i-th line represents the name of the i-th person. Each name contains at most 20 characters and contains at least one alphabet letter. 
-Output
+### Output
 For each test case, output one line containing Case #x: y, where x is the test case number (starting from 1) and y is the name of the leader.
 Limits
 1 ≤ T ≤ 100.
 1 ≤ N ≤ 100.
-Small dataset
+
+##### Small dataset
 Each name consists of at most 20 characters and only consists of the uppercase English letters A through Z. 
-Large dataset
+
+##### Large dataset
 Each name consists of at most 20 characters and only consists of the uppercase English letters A through Z and ' '(space).
 All names start and end with alphabet letters.
 ## Sample
 
-### Input 
+#### Input 
 2
 3
 ADAM
@@ -33,6 +35,6 @@ JOHNSON
 A AB C
 DEF
 
-### Output 
+#### Output 
 Case #1: JOHNSON
 Case #2: A AB C
