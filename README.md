@@ -24,10 +24,6 @@ All names start and end with alphabet letters.
 ## Sample
 
 ### Input 
-  
-
-### Output 
-  
 2
 3
 ADAM
@@ -37,7 +33,6 @@ JOHNSON
 A AB C
 DEF
 
+### Output 
 Case #1: JOHNSON
 Case #2: A AB C
-
-
