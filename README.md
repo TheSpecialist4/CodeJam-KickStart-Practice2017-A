@@ -3,7 +3,7 @@ My solution for CodeJam Kickstart Practice Round 2017 Problem - A, Country Leade
 
 Here's the question pasted from the CodeJam website.
 
-Problem
+## Problem
 The Constitution of a certain country states that the leader is the person with the name containing the greatest number of different alphabet letters. (The country uses the uppercase English alphabet from A through Z.) For example, the name GOOGLE has four different alphabet letters: E, G, L, and O. The name APAC CODE JAM has eight different letters. If the country only consists of these 2 persons, APAC CODE JAM would be the leader.
 
 If there is a tie, the person whose name comes earliest in alphabetical order is the leader.
@@ -21,12 +21,12 @@ Each name consists of at most 20 characters and only consists of the uppercase E
 Large dataset
 Each name consists of at most 20 characters and only consists of the uppercase English letters A through Z and ' '(space).
 All names start and end with alphabet letters.
-Sample
+## Sample
 
-Input 
+### Input 
   
 
-Output 
+### Output 
   
 2
 3
